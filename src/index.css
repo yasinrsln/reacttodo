@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    font-family: inherit;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: justify;
+    background-color: rgb(160, 249, 255);
+    
+   
+  }
+  #verticle {
+    border-left: 1px solid grey;
+    height: 653px;
+    position: absolute;
+    left: 50%;
+    margin-left: 150px;
+    top: 11px;
+}
+
+h1 {
+  font-family: inherit;
+  margin-left: 25%;
+  color: rgb(7, 6, 6);
+  
+  
+}
